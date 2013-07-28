@@ -71,21 +71,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="associative_array.cpp" />
     <ClCompile Include="character.cpp" />
     <ClCompile Include="game.cpp" />
     <ClCompile Include="graphic_object.cpp" />
-    <ClCompile Include="local_texts.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="map.cpp" />
     <ClCompile Include="map_object.cpp" />
     <ClCompile Include="player_character.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="associative_array.h" />
     <ClInclude Include="character.h" />
     <ClInclude Include="game.h" />
     <ClInclude Include="general.h" />
     <ClInclude Include="graphic_object.h" />
-    <ClInclude Include="local_texts.h" />
     <ClInclude Include="map.h" />
     <ClInclude Include="map_object.h" />
     <ClInclude Include="player_character.h" />
